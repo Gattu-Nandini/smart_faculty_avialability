@@ -209,18 +209,6 @@ src/
 
 ---
 
-## 🌐 Live Demo
-
-**URL:** https://smart-faculty-system.web.app/login
-
-| Role | How to Test |
-|---|---|
-| Student | Signup → Select room → Select class and section |
-| Faculty | Signup → Mark Available → Select room |
-| Admin | Signup → Monitor dashboard → Assign faculty |
-
----
-
 ## 💡 Impact
 
 | Before | After |
