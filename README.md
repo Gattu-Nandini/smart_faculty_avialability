@@ -2,8 +2,6 @@
 
 A real-time web application that digitally tracks faculty availability and helps admin instantly manage unattended classrooms — eliminating manual room-to-room checking completely.
 
-🌐 **Live App:** [smart-faculty-system.web.app](https://smart-faculty-system.web.app/login)
-
 ---
 
 ## ❌ Problem Statement
@@ -231,15 +229,7 @@ src/
 | Students unattended for hours | No room goes unattended |
 | No real-time visibility | Complete real-time dashboard |
 | No notification system | Instant push notifications |
-| Wasted time and resources | Efficient management |
-
----
-
-## 👩‍💻 Developer
-
-**Gattu Nandini**
-- GitHub: [@Gattu-Nandini](https://github.com/Gattu-Nandini)
-- Live Project: [smart-faculty-system.web.app](https://smart-faculty-system.web.app/login)
+| Wasted time and resources | Efficient management|
 
 ---
 
